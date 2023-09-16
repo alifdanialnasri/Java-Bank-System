@@ -35,17 +35,17 @@ To run this application, you need to have the following installed:
    git clone https://github.com/your-username/java-banking-application.git
 
 
-  ## Usage
+### Usage
 
-  Launch the application, and you will be presented with a login dialog.
+Launch the application, and you will be presented with a login dialog.
 
 Enter one of the predefined usernames and passwords:
 
--Username: ADMIN, Password: 0000 (for admin access).
--Username: ALIF, Password: 1111.
--Username: AFIF, Password: 2222.
--Username: AYIH, Password: 3333.
--Username: ZAIM, Password: 4444.
+- Username: ADMIN, Password: 0000 (for admin access).
+- Username: ALIF, Password: 1111.
+- Username: AFIF, Password: 2222.
+- Username: AYIH, Password: 3333.
+- Username: ZAIM, Password: 4444.
 Once logged in, you can choose from various banking operations, such as checking your balance, depositing funds, withdrawing funds, viewing previous transactions, and exiting the application.
 
 Follow the on-screen instructions for each operation.
